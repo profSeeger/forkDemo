@@ -16,21 +16,6 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "place": "Chicago, Illinois",
-        "name": "Barney",
-        "pet": "Fish"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.684722, 
-          41.836944
-        ]
-      }
-    },
      {
       "type": "Feature",
       "properties": {
@@ -43,21 +28,6 @@
         "coordinates": [
           -118.25, 
           34.05 
-        ]
-      }
-    },   
-    {
-      "type": "Feature",
-      "properties": {
-        "place": "Fort Collins, Colorado",
-        "name": "Sue",
-        "pet": "Dog"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.02105712890625,
-          40.538851525354644
         ]
       }
     }
