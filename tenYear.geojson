@@ -19,6 +19,21 @@
     {
       "type": "Feature",
       "properties": {
+        "place": "Grinnell, Iowa",
+        "name": "Marios",
+        "pet": "Llama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.724722, 
+          41.743611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "place": "Chicago, Illinois",
         "name": "Barney",
         "pet": "Fish"
