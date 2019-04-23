@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Chippewa Falls, Wisconsin",
+        "name": "Fred",
+        "pet": "Cat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.36685371398924,
+          44.97912812237348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Chicago, Illinois",
+        "name": "Barney",
+        "pet": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.684722, 
+          41.836944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Fort Collins, Colorado",
+        "name": "Sue",
+        "pet": "Dog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.02105712890625,
+          40.538851525354644
+        ]
+      }
+    }
+  ]
+}
