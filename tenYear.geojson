@@ -4,21 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "place": "Chippewa Falls, Wisconsin",
-        "name": "Fred",
-        "pet": "Cat"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.36685371398924,
-          44.97912812237348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "place": "Grinnell, Iowa",
         "name": "Marios",
         "pet": "Llama"
