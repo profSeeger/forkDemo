@@ -46,6 +46,21 @@
         ]
       }
     },
+     {
+      "type": "Feature",
+      "properties": {
+        "place": "Los Angeles, California",
+        "name": "Rakibul",
+        "pet": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25, 
+          34.05 
+        ]
+      }
+    },   
     {
       "type": "Feature",
       "properties": {
