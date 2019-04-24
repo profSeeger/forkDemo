@@ -34,9 +34,6 @@
   ]
 },
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
       "type": "Feature",
       "properties": {
         "place": "San Francisco, California",
@@ -46,8 +43,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        -122.416667,
-           37.783333
+         -122.416667, 
+          37.783333 
         ]
       }
     }
