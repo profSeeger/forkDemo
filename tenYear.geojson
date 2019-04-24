@@ -16,6 +16,21 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Mesa, Arizona",
+        "name": "Cody",
+        "pet": "Dog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8315, 
+          33.4152
+        ]
+      }
+    },
      {
       "type": "Feature",
       "properties": {
