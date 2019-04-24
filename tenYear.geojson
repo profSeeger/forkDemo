@@ -16,6 +16,20 @@
         ]
       }
     },
+        {
+      "type": "Feature",
+      "properties": {
+        "place": "Orlando, Florida",
+        "name": "Athena & Arya",
+        "pet": "Dogs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38, 28.54
+        ]
+      }
+    },
      {
       "type": "Feature",
       "properties": {
