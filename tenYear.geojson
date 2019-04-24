@@ -32,4 +32,22 @@
       }
     }
   ]
-}
+},
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "San Francisco, California",
+        "name": "Sayma",
+        "pet": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -122.416667,
+           37.783333
+        ]
+      }
+    },
