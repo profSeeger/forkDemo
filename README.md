@@ -1,2 +1,2 @@
 # forkDemo
-Demo data for Github Forking
+Data for Github Forking demonstration.
