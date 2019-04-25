@@ -45,6 +45,21 @@
           34.05 
         ]
       }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Washington, D.C.",
+        "name": "Kendyl",
+        "pet": "Cat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.016389, 
+          38.904722 
+        ]
+      }
     }
   ]
 }
