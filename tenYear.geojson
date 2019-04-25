@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "place": "Ventura, California",
+        "name": "Alejandra Quintana",
+        "pet": "Dog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.227778,
+          34.275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "place": "Grinnell, Iowa",
         "name": "Marios",
         "pet": "Llama"
@@ -13,6 +28,21 @@
         "coordinates": [
           -92.724722, 
           41.743611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Mesa, Arizona",
+        "name": "Cody",
+        "pet": "Dog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8315, 
+          33.4152
         ]
       }
     },
@@ -45,6 +75,21 @@
           37.783333 
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place": "Washington, D.C.",
+        "name": "Kendyl",
+        "pet": "Cat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.016389, 
+          38.904722 
+        ]
+      }
     }
-   ]
+  ]
 }
