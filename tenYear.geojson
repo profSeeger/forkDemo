@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "place": "Ventura, California",
+        "name": "Alejandra Quintana",
+        "pet": "Dog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.227778,
+          34.275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "place": "Grinnell, Iowa",
         "name": "Marios",
         "pet": "Llama"
