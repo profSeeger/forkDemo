@@ -6,7 +6,7 @@
       "properties": {
         "place": "Ventura, California",
         "name": "Alejandra Quintana",
-        "pet": "Dog"
+        "pet": "Dog!"
       },
       "geometry": {
         "type": "Point",
