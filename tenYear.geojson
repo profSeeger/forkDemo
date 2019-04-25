@@ -1,6 +1,21 @@
 {
   "type": "FeatureCollection",
   "features": [
+     {
+      "type": "Feature",
+      "properties": {
+        "place": "Mumbai, India",
+        "name": "Prithvisingh Bisen",
+        "pet": "None"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.975,
+          72.825833
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
