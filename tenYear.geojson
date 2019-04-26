@@ -16,6 +16,21 @@
         ]
       }
     },
+   {
+      "type": "Feature",
+      "properties": {
+        "place": "Seattle, Washington",
+        "name": "Panhavuth",
+        "pet": "Dog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327012,
+          47.594553
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
