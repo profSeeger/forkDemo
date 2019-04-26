@@ -64,6 +64,21 @@
     {
       "type": "Feature",
       "properties": {
+        "place": "New York, New York",
+        "name": "Anna Busch",
+        "pet": "Dog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059,
+          40.7127
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
         "place": "Grinnell, Iowa",
         "name": "Marios",
         "pet": "Llama"
